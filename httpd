@@ -1,2 +1,3 @@
 httpd -M  --> To check the loading modules in apache
 grep -i include httpd.conf --> to check any configuration attached in httpd.conf file
+Document root /var/www/html/index.html  --> home page of the httpd services
