@@ -6,3 +6,6 @@ curl ifconfig.co  ---> to find the public address of the server
 ps -ef |grep httpd | grep -v grep
 :43 --> in vi editor we can directly go the 43rd line
 chckconfig httpd on   --> to start services at the reboot server
+how to edit hosts file in windows ---> right click and select "properties" and click "security tab" on the tab and select the USER and provide "full access"
+RPM (request per minute/ THROUGHPUT) coming to the website
+function +f12 could see "remote address" 
