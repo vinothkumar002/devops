@@ -4,3 +4,5 @@ grep -i include httpd.conf --> to check any configuration attached in httpd.conf
 Document root /var/www/html/index.html  --> home page of the httpd services
 curl ifconfig.co  ---> to find the public address of the server
 ps -ef |grep httpd | grep -v grep
+:43 --> in vi editor we can directly go the 43rd line
+chckconfig httpd on   --> to start services at the reboot server
