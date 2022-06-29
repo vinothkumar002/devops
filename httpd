@@ -11,3 +11,5 @@ RPM (request per minute/ THROUGHPUT) coming to the website
 function +f12 OR F12 could see "remote address" where the request is going
 export PS1='AWS123.COM$' --> To set prompt in the unix / linux server
 httpd -v ---> to check/verify httpd is installed / not intalled in linux/linux server
+service httpd reload ---> will read the updated configuration file without stopping the httpd services   IMPORTANT
+website name with cashBuster to verify in the backend logs EXAMPLE : www.google.com/?vinoth   <?vinoth is cashBuster>
