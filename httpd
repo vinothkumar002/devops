@@ -9,3 +9,5 @@ chckconfig httpd on   --> to start services at the reboot server
 how to edit hosts file in windows ---> right click and select "properties" and click "security tab" on the tab and select the USER and provide "full access"
 RPM (request per minute/ THROUGHPUT) coming to the website
 function +f12 OR F12 could see "remote address" where the request is going
+export PS1='AWS123.COM$' --> To set prompt in the unix / linux server
+httpd -v ---> to check/verify httpd is installed / not intalled in linux/linux server
